@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SCHOOLSMP-lZKY.aternos.me",
+    "ip": " SCHOOLSMP-lZKY.aternos.me:50673",
     "port": 50673,
-    "version": "1.21.1"
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
